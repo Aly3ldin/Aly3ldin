@@ -13,4 +13,3 @@ Instagram 😊
 
 https://www.instagram.com/ali3ldin3211?utm_source=qr
 
-That's it 🙂
