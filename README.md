@@ -13,3 +13,7 @@ Instagram 😊
 
 https://www.instagram.com/ali3ldin3211?utm_source=qr
 
+LinkedIn 🙂
+
+https://www.linkedin.com/in/ali-sayed-soliman-a6a486262
+
