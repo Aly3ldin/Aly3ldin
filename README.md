@@ -20,7 +20,7 @@
 
 - 📫 How to reach me ***career.prog.secu@gmail.com***
 
-- ⚡ Fun fact **Rimend me with a lively memory  🤞💚**
+- ⚡ Fun fact **Rimend me with a lovely memory  🤞💚**
 
 </td>
 <td width="50%" align="center">
