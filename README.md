@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **N+ | CCNA |CS50 | CS101 | MCSA**
+- 🌱 I’m currently learning **N+ | CCNA | CS50 | CS101 | MCSA**
 
 - 👯 I’m looking to participate on **Global Events related with Technology and Computers**
 
