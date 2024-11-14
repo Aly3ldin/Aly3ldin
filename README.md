@@ -42,7 +42,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Aly3ldin&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aly3ldin&theme=dark&hide_border=false" /> 
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Aly3ldin&theme=merko&border=99">
 </td>
 <td width="50%" align="center">
 
@@ -74,3 +74,9 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/alisayed34z"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+
+---
+
+ <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Aly3ldin&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
