@@ -19,7 +19,7 @@
 
 - 📫 How to reach me ***ali.s.soliman01@gmail.com***
 
-- ⚡ Creativity ,Solving Problems ,and curiosity This what I'm pro at🤞💚**
+- ⚡ Creativity ,Solving Problems ,and curiosity This what I'm pro at 🤞🪄**
 
 </td>
 <td width="50%" align="center">
