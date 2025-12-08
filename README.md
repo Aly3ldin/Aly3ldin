@@ -39,7 +39,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Aly3ldin&theme=merko&show_icons=true&count_private=true" />
   <br></br>
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Aly3ldin&theme=merko&border=99">
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Aly3ldin&theme=radical&border=99">
 </td>
 <td width="50%" align="center">
 
