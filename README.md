@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aly+Soliman!;" />
 </h1>
 
-<h3 align="center">Passionate IT Student | Networks | System Admin | Security | Edu & Tech Enthusiast</h3>
+<h3 align="center">Passionate IT Engineer | Networks | System Admin | Security | Edu & Tech Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aly3ldin&label=Profile%20views&color=0e75b6&style=flat" alt="aly3ldin" /> </p>
 
 <table align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">My Statistics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
