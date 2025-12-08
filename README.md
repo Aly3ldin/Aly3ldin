@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aly+Soliman!;" />
-</h1>
+<img width="750" height="1000" alt="Image" src="https://github.com/user-attachments/assets/a62bb041-ce18-487c-aa8c-f245e5354e4b" /></h1>
 
 <h3 align="center">Passionate IT Engineer | Networks | System Admin | Security | Edu & Tech Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aly3ldin&label=Profile%20views&color=0e75b6&style=flat" alt="aly3ldin" /> </p>
