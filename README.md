@@ -22,7 +22,7 @@
 </td>
 <td width="50%" align="center">
 
-<img width="750" height="1000" alt="Image" src="https://github.com/user-attachments/assets/a62bb041-ce18-487c-aa8c-f245e5354e4b" />
+<img width="750" height="800" alt="Image" src="https://github.com/user-attachments/assets/a62bb041-ce18-487c-aa8c-f245e5354e4b" />
 
   
   </td>
