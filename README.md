@@ -37,7 +37,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
   <br></br>
 <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Aly3ldin&theme=radical&border=99">
 </td>
