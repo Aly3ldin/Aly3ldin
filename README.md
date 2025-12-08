@@ -37,7 +37,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Aly3ldin&show_icons=true&theme=radical&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Aly3ldin&show_icons=true&theme=radical" />
   <br></br>
 <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Aly3ldin&theme=radical&border=99">
 </td>
