@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to participate on **Global Events related with Technology and Computers**
 
-- 💬 Ask me about **Java, C++, C, Networks**
+- 💬 Ask me about **Python, C++, C, Networks**
 
 - 📫 How to reach me ***ali.s.soliman01@gmail.com***
 
