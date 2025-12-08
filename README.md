@@ -76,13 +76,6 @@
 ---
 
 <h3 align="center">Support:</h3>
-
-
-
-
-
-
-<img width="750" height="1000" alt="Image" src="https://github.com/user-attachments/assets/a62bb041-ce18-487c-aa8c-f245e5354e4b" />
 <p align="center"><a href="https://www.buymeacoffee.com/alisayed34z"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
 ---
