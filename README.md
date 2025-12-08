@@ -9,9 +9,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-## 🔭 I’m currently working on **Graduation Project**
+## 🔭 I’m currently working on **Finding a Good Job **
 
-- 🌱 I’m currently learning **N+ | CCNA | CS50 | CS101 | MCSA**
+- 🌱 I’m currently learning **N+ | CCNA | CS50 | MCSA**
 
 - 👯 I’m looking to participate on **Global Events related with Technology and Computers**
 
