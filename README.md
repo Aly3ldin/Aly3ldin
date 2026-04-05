@@ -38,7 +38,6 @@ I'm currently focused on <b>Finding a Good Job</b> and expanding my technical ho
 
 <h2 align="left"><img src="https://img.shields.io/badge/Skills-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 
-<h2 align="left">Skills</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
   <br />
