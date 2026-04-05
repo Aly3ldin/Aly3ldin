@@ -24,22 +24,7 @@
 </p>
 <h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><table align="center" border="0">
   
- <table align="left" border="0">
-  <tr>
-    <td valign="top">
 
-## 🔭 About Me
-I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
-
-- 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
-- 👯 Looking to: Participate in **Global Tech Events**
-- 💬 Ask me about: **Python, C++, C, Networks**
-- 📫 Reach me: **ali.s.soliman01@gmail.com**
-- ⚡ Pro at: **Creativity, Problem Solving, and Curiosity** 🤞🪄   
-
-    </td>
-  </tr>
-</table>
 
 <h2 align="left"><img src="https://img.shields.io/badge/Skills-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
