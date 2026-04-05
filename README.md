@@ -9,7 +9,7 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-## 🔭 About Me
+<h2 align="left"><img src="https://img.shields.io/badge/About me%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
 
 - 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
