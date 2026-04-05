@@ -6,6 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aly+Soliman!;" alt="Typing SVG" />
 </p>
 
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+## 🔭 About Me
+I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
+
+- 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
+- 👯 Looking to: Participate in **Global Tech Events**
+- 💬 Ask me about: **Python, C++, C, Networks**
+- 📫 Reach me: **ali.s.soliman01@gmail.com**
+- ⚡ Pro at: **Creativity, Problem Solving, and Curiosity** 🤞🪄   
+  </tr>
+</table>
+
 <h2 align="left">Skills</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -37,20 +51,6 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </div>
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-## 🔭 About Me
-I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
-
-- 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
-- 👯 Looking to: Participate in **Global Tech Events**
-- 💬 Ask me about: **Python, C++, C, Networks**
-- 📫 Reach me: **ali.s.soliman01@gmail.com**
-- ⚡ Pro at: **Creativity, Problem Solving, and Curiosity** 🤞🪄   
-  </tr>
-</table>
 
 
 <p align="center">
