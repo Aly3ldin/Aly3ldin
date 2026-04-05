@@ -23,7 +23,6 @@
   </a>
 </p>
 
----
 
 <h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 
