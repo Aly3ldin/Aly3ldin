@@ -23,8 +23,12 @@
 
 </p>
 <h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><table align="center" border="0">
+  
+ <table align="left" border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
+
+## 🔭 About Me
 I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
 
 - 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
@@ -32,6 +36,8 @@ I'm currently focused on **Finding a Good Job** and expanding my technical horiz
 - 💬 Ask me about: **Python, C++, C, Networks**
 - 📫 Reach me: **ali.s.soliman01@gmail.com**
 - ⚡ Pro at: **Creativity, Problem Solving, and Curiosity** 🤞🪄   
+
+    </td>
   </tr>
 </table>
 
