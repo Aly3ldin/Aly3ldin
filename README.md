@@ -14,7 +14,8 @@
    <a href="mailto:ali.s.soliman01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" height="50" /></a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" height="50" />
+  </a>
   
   <a href="https://twitter.com/ali3ldin" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
