@@ -46,6 +46,6 @@ I'm currently focused on **Finding a Good Job** and expanding my technical horiz
 </div>
 
 <h2 align="left"><img src="https://img.shields.io/badge/Statistics-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly3ldin&theme=radical&hide_border=true&stroke=00000000" alt="GitHub Streak" width="65%" />
 </p>
