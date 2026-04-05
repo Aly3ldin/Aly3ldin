@@ -4,7 +4,22 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aly+Soliman!;" alt="Typing SVG" />
-  <h3 align="center">IT Specialist | Network & Systems Infrastructure</h3>
+ <h3 align="center">IT Specialist | Network & Systems Infrastructure</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ali-sayed-soliman-a6a486262" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:ali.s.soliman01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" height="40" />
+  </a>
+  <a href="https://twitter.com/ali3ldin" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="40" />
+  </a>
+</p>
 
 </p>
 <h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><table align="center" border="0">
