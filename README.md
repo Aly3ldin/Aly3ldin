@@ -28,7 +28,7 @@ I'm currently focused on **Finding a Good Job** and expanding my technical horiz
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Tools-FF69B4?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </div>
 
-
+<h2 align="left"><img src="https://img.shields.io/badge/Statistics-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly3ldin&theme=radical&width=1000" alt="GitHub Streak" width="100%" />
 </p>
