@@ -8,6 +8,7 @@
 
 <h3 align="center">IT Specialist | Network & Systems Infrastructure</h3>
 
+  <p align="center">
   <a href="https://linkedin.com/in/ali-sayed-soliman-a6a486262" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
