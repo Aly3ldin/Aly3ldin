@@ -22,7 +22,7 @@
 </p>
 
 </p>
-<h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><table align="center" border="0">
+<h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><table align="left" border="0">
   <tr>
     <td width="50%" valign="top">
 I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
