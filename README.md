@@ -5,11 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aly+Soliman!;" alt="Typing SVG" />
 </p>
-
-<table align="center" border="0">
+<h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2><table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-<h2 align="left"><img src="https://img.shields.io/badge/About me%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 I'm currently focused on **Finding a Good Job** and expanding my technical horizon.
 
 - 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
