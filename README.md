@@ -31,11 +31,12 @@ Specializing in <b>network protocols, systems architecture,</b>
   <br />
   <b>and hardware lifecycle management</b>. Currently advancing
   <br />
-  enterprise-grade expertise in <b>N+, CCNA, and MCSA</b> to deliver
+  enterprise-grade expertise in <b>Google IT Support, N+, CCNA,</b>
   <br />
-  secure, high-availability infrastructure solutions. Driven by
+  <b>and MCSA</b> to deliver secure, high-availability infrastructure
   <br />
-  analytical problem-solving and technical innovation.
+  solutions. Driven by analytical problem-solving and innovation.
+</p>
 </p>
 
 - 🚀 **Professional Growth:** N+ | CCNA | CS50 | MCSA | A+ | Google IT Support
