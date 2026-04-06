@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aly+Soliman!;" alt="Typing SVG" />
 </p>
 
-<h3 align="center">IT Specialist | Network & Systems Infrastructure</h3>
+<h3 align="center">IT Infrastructure Specialist | Network & Systems Engineering</h3>
 
   <p align="center">
   <a href="https://linkedin.com/in/ali-sayed-soliman-a6a486262" target="_blank">
@@ -27,13 +27,11 @@
 <h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 
 <p align="left">
-I'm currently focused on <b>Finding a Good Job</b> and expanding my technical horizon.
+  Specializing in <b>network protocols, systems architecture, and hardware lifecycle management</b>. 
+  Currently advancing enterprise-grade expertise in <b>N+, CCNA, and MCSA</b> to deliver secure, 
+  high-availability infrastructure solutions. Driven by analytical problem-solving and technical innovation.
 </p>
 
-- 🌱 Learning: **N+ | CCNA | CS50 | MCSA**
-- 👯 Looking to: Participate in **Global Tech Events**
-- 💬 Ask me about: **Python, C++, Networks**
-- ⚡ Pro at: **Creativity, Problem Solving, and Curiosity**
 
 <h2 align="left"><img src="https://img.shields.io/badge/Skills-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 
