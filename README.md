@@ -27,9 +27,13 @@
 <h2 align="left"><img src="https://img.shields.io/badge/About%20Me-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 
 <p align="left">
-  Specializing in <b>network protocols, systems architecture, and hardware lifecycle management</b>. 
-  Currently advancing enterprise-grade expertise in <b>N+, CCNA, and MCSA</b> to deliver secure, 
-  high-availability infrastructure solutions. Driven by analytical problem-solving and technical innovation.
+ Specializing in <b>network protocols, systems architecture, and hardware lifecycle management</b>.
+  <br />
+  Currently advancing enterprise-grade expertise in <b>N+, CCNA, and MCSA</b> to deliver
+  <br />
+  secure, high-availability infrastructure solutions for complex technical environments.
+  <br />
+  Driven by a professional commitment to analytical problem-solving and technical innovation.
 </p>
 
 - 🚀 **Professional Growth:** N+ | CCNA | CS50 | MCSA
