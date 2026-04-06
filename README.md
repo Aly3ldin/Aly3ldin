@@ -38,7 +38,7 @@ Specializing in <b>network protocols, systems architecture,</b>
   analytical problem-solving and technical innovation.
 </p>
 
-- 🚀 **Professional Growth:** N+ | CCNA | CS50 | MCSA
+- 🚀 **Professional Growth:** N+ | CCNA | CS50 | MCSA | A+ | Google IT Support
 - 💬 **Expertise:** Python, C/C++, Network Topology
 
 
