@@ -32,6 +32,9 @@
   high-availability infrastructure solutions. Driven by analytical problem-solving and technical innovation.
 </p>
 
+- 🚀 **Professional Growth:** N+ | CCNA | CS50 | MCSA
+- 💬 **Expertise:** Python, C/C++, Network Topology
+
 
 <h2 align="left"><img src="https://img.shields.io/badge/Skills-%23FF0000.svg?style=for-the-badge&logoColor=white" /></h2>
 
